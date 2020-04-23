@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+ciphertext
+decrypted_message
+message
+private_key
+public_key
